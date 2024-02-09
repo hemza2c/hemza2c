@@ -52,9 +52,10 @@ Certifications and achieviements from TryHackMe
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:500px;"/>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:500px;"/>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1DZHAS6MH2.png" style="width:500px;"/>
-
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Automation Project.
+- Ansible Automation for Container Security.
+- Machine Learning Tool to Identify Malicious URLs.
+- Novel USB Rubber Ducky Scripts.

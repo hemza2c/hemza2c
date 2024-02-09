@@ -48,11 +48,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 Certifications and achieviements from TryHackMe
 <div>
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QLCVD2L3DV.png" style="width: 500px;">
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:500px;"/>
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:500px;"/>
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1DZHAS6MH2.png" style="width:500px;"/>
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QLCVD2L3DV.png" style="width:300px;">
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:300px;"/>
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:300px;"/>
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1DZHAS6MH2.png" style="width:300px;"/>
 </div>
+
+[CCNA Cyber Ops](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url)
+
+[CopmTIA Cyber Security Analyst CySa+ Training](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1635549274467/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+
+Certifications from Udemy
+
+[Mastering Command Injection - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-79f216e5-4b93-484a-bbf0-6a486faa91b9/)
+
+[Mastering Directory Traversal - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-3bc8d679-d16f-4f8b-8369-18af26644096/)
 
 ## Projects
 - SOC Automation Project.

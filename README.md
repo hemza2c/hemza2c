@@ -34,35 +34,47 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ESET-007ACC?style=for-the-badge&logo=ESET&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
-Certifications and achieviements from TryHackMe
+[CCNA Cyber Ops](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url)
+
+[CopmTIA Cyber Security Analyst CySa+ Training](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1635549274467/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+
+[Incident Response Planning](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1708092863727/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+
+[Learning Elastic Stack](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1708092918547/single-media-viewer/?profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+
+[CCNA 1 ITN ](https://www.credly.com/badges/7e56624b-2258-42fb-af59-c6cf414bb42d/linked_in_profile)
+
+[HCIA Routing & Switching](https://drive.google.com/file/d/1kQR_8gTch7JZOkLTKMfI6a7c4_LsO6f3/view?usp=sharing)
+
+[JNCIA Junos](https://drive.google.com/file/d/1cwxmSgGdRl9Ap2AgJCrQaX4f7DQ38omp/view?usp=sharing)
+
+### Udemy certifictions
+
+[Mastering Command Injection - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-79f216e5-4b93-484a-bbf0-6a486faa91b9/)
+
+[Mastering Directory Traversal - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-3bc8d679-d16f-4f8b-8369-18af26644096/)
+
+
+### TryHackMe certifications & achievements
 <div>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QLCVD2L3DV.png" style="width:300px;">
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:300px;"/>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:300px;"/>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1DZHAS6MH2.png" style="width:300px;"/>
 </div>
-
-[CCNA Cyber Ops](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url)
-
-[CopmTIA Cyber Security Analyst CySa+ Training](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1635549274467/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
-
-Certifications from Udemy
-
-[Mastering Command Injection - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-79f216e5-4b93-484a-bbf0-6a486faa91b9/)
-
-[Mastering Directory Traversal - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-3bc8d679-d16f-4f8b-8369-18af26644096/)
 
 ## Projects
 - SOC Automation Project.

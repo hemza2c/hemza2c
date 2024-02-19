@@ -7,15 +7,15 @@ Committed to continuous learning and professional growth in safeguarding valuabl
 
 ## Career Objectives
 Aspiring to excel in the dynamic field of cybersecurity, my career objectives are focused on contributing to blue team operations and advancing into roles such as SOC Analyst (Tier 1/2) or Cyber Security Engineer. My objectives include:
-#### Joining a SOC Environment:
+#### Joining a SOC Environment
 My immediate goal is to secure a position within a Security Operations Center, where I can leverage my technical skills and passion for cybersecurity to contribute to threat detection, incident response, and security monitoring efforts.
-#### Gaining Practical Experience:
+#### Gaining Practical Experience
 I aspire to gain hands-on experience in security operations by actively participating in projects and learning from experienced colleagues.
-#### Obtaining Relevant Certifications:
+#### Obtaining Relevant Certifications
 I am committed to acquiring industry-recognised certifications to validate my knowledge and skills in defensive cybersecurity strategies.
-#### Advancing to Senior Roles: 
+#### Advancing to Senior Roles
 With a long-term perspective, I aspire to progress from entry-level positions to more senior roles within blue teams, taking on leadership responsibilities and making strategic contributions to organisational security posture.
-#### Continuous Learning and Development:
+#### Continuous Learning and Development
 I am dedicated to continuous learning and professional development, staying updated with the latest trends, technologies, and best practices in cybersecurity, and pursuing advanced certifications and training opportunities to enhance my expertise.
 
 ## Skills

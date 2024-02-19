@@ -25,9 +25,11 @@ I am dedicated to continuous learning and professional development, staying upda
 | Project                                       | Github Repository         |
 |-----------------------------------------------|----------------------------|
 | SOC Automation Project                        | [Repo Link](link_to_repo)|
+| Investigation with Python                     | [Repo Link](https://github.com/hemza2c/Investigation-with-Python)|
 | Ansible Automation for Container Security     | [Repo Link](https://github.com/hemza2c/reserach_paper)|
 | Machine Learning Tool to Identify Malicious URLs | [Repo Link](https://github.com/hemza2c/ML-tool-for-malicious-URLs)|
 | Novel USB Rubber Ducky Scripts                | [Repo Link](https://github.com/hemza2c/USB-Rubber-Ducky-scripts)|
+
 
 ## Tools
 As a cybersecurity professional, I have honed my skills and expertise in a variety of tools and areas crucial to safeguarding digital assets and mitigating security risks. Here are some of the tools I have mastered and my areas of expertise

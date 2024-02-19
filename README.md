@@ -23,20 +23,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+
+| Tool | Description |
+|------|-------------|
+| [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/) | Wireshark is a widely-used network protocol analyser for network troubleshooting, analysis, software and communications protocol development, and education. |
+| [![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white)](https://suricata.io/) | Suricata is a high-performance Network IDS, IPS, and Network Security Monitoring engine. |
+| [![Zeek](https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white)](https://zeek.org/) | Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. |
+| [![Snort](https://img.shields.io/badge/-Snort-FF4500?style=for-the-badge&logo=Snort&logoColor=white)](https://www.snort.org/) | Snort is an open-source network intrusion detection system (NIDS) capable of performing real-time traffic analysis and packet logging. |
+| [![Tcpdump](https://img.shields.io/badge/-Tcpdump-4B0082?style=for-the-badge&logo=Tcpdump&logoColor=white)](https://www.tcpdump.org/) | Tcpdump is a powerful command-line packet analyser. |
+| [![NetworkMiner](https://img.shields.io/badge/-NetworkMiner-008000?style=for-the-badge&logo=NetworkMiner&logoColor=white)](https://www.netresec.com/?page=NetworkMiner) | NetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname, and open ports of network hosts. |
+| [![Brim](https://img.shields.io/badge/-Brim-008080?style=for-the-badge&logo=Brim&logoColor=white)](https://www.brimsecurity.com/) | Brim is an open-source, real-time, and search-driven network analysis tool. |
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-ESET-007ACC?style=for-the-badge&logo=ESET&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=Sysmon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-osquery-3399FF?style=for-the-badge" />
 </div>
 
 ### SIEM
@@ -45,6 +49,33 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Shuffler.io-FFA500?style=for-the-badge&logo=Shuffler.io&logoColor=black&color=000000" />
+</div>
+
+### Digital Forensics & Incident Response
+![Autopsy](https://img.shields.io/badge/-Autopsy-9932CC?style=for-the-badge)
+![Redline](https://img.shields.io/badge/-Redline-B22222?style=for-the-badge)
+![KAPE](https://img.shields.io/badge/-KAPE-FF6347?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/-Volatility-4682B4?style=for-the-badge)
+<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+![The Hive](https://img.shields.io/badge/-The_Hive-FF7F50?style=for-the-badge)
+
+
+### Security Tools and Technologies
+
+| | | | |
+|---|---|---|---|
+| ![TheHive Project](https://img.shields.io/badge/-The_Hive_Project-FF7F50?style=for-the-badge) | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white) | ![osquery](https://img.shields.io/badge/-osquery-3399FF?style=for-the-badge&logo=osquery&logoColor=white) | ![Autopsy](https://img.shields.io/badge/-Autopsy-9932CC?style=for-the-badge) |
+| Description: Open source incident response platform | Description: Networking and cybersecurity solutions | Description: Endpoint visibility and security | Description: Digital forensics and analysis |
+| ![Redline](https://img.shields.io/badge/-Redline-B22222?style=for-the-badge) | ![KAPE](https://img.shields.io/badge/-KAPE-FF6347?style=for-the-badge) | ![Volatility](https://img.shields.io/badge/-Volatility-4682B4?style=for-the-badge) | ![Tcpdump](https://img.shields.io/badge/-Tcpdump-4B0082?style=for-the-badge&logo=Tcpdump&logoColor=white) |
+| Description: Endpoint security and analysis | Description: Forensic data collection and triage | Description: Memory forensics | Description: Network packet capture and analysis |
+| ![Snort](https://img.shields.io/badge/-Snort-FF4500?style=for-the-badge&logo=Snort&logoColor=white) | ![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white) | ![ESET](https://img.shields.io/badge/-ESET-007ACC?style=for-the-badge&logo=ESET&logoColor=white) | |
+| Description: Network intrusion detection and prevention | Description: Security monitoring and threat detection | Description: Antivirus and cybersecurity solutions | |
+
+
 
 ## Certifications
 [CCNA Cyber Ops](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url)

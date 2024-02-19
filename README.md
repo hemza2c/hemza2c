@@ -5,10 +5,23 @@ Experienced cyber security engineer with a strong foundation in cyber security p
 and incident response. Proficient in network security, secure infrastructure design, and security tool implementation. Detail-oriented, analytical, and adept at problem-solving.
 Committed to continuous learning and professional growth in safeguarding valuable information assets.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Career Objectives
+Aspiring to excel in the dynamic field of cybersecurity, my career objectives are focused on contributing to blue team operations and advancing into roles such as SOC Analyst (Tier 1/2) or Cyber Security Engineer. My objectives include:
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+#### Joining a SOC Environment:
+My immediate goal is to secure a position within a Security Operations Center, where I can leverage my technical skills and passion for cybersecurity to contribute to threat detection, incident response, and security monitoring efforts.
+
+#### Gaining Practical Experience:
+I aspire to gain hands-on experience in security operations by actively participating in projects and learning from experienced colleagues.
+
+#### Obtaining Relevant Certifications:
+I am committed to acquiring industry-recognised certifications to validate my knowledge and skills in defensive cybersecurity strategies.
+
+#### Advancing to Senior Roles: 
+With a long-term perspective, I aspire to progress from entry-level positions to more senior roles within blue teams, taking on leadership responsibilities and making strategic contributions to organisational security posture.
+
+#### Continuous Learning and Development:
+I am dedicated to continuous learning and professional development, staying updated with the latest trends, technologies, and best practices in cybersecurity, and pursuing advanced certifications and training opportunities to enhance my expertise.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

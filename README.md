@@ -1,9 +1,7 @@
 # Hello, I'm Hemza Chaker
 <a href="https://www.linkedin.com/in/hemza-chaker-6649b3183/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced cyber security engineer with a strong foundation in cyber security principles and best practices, as well as practical experience in cyber security analysis, vulnerability assessment,
-and incident response. Proficient in network security, secure infrastructure design, and security tool implementation. Detail-oriented, analytical, and adept at problem-solving.
-Committed to continuous learning and professional growth in safeguarding valuable information assets.
+Experienced cyber security engineer with a strong foundation in cyber security principles and best practices, as well as practical experience in cyber security analysis, vulnerability assessment,and incident response. Proficient in network security, secure infrastructure design, and security tool implementation. Detail-oriented, analytical, and adept at problem-solving.Committed to continuous learning and professional growth in safeguarding valuable information assets.
 
 ## Career Objectives
 Aspiring to excel in the dynamic field of cybersecurity, my career objectives are focused on contributing to blue team operations and advancing into roles such as SOC Analyst (Tier 1/2) or Cyber Security Engineer. My objectives include:
@@ -17,8 +15,6 @@ I am committed to acquiring industry-recognised certifications to validate my kn
 With a long-term perspective, I aspire to progress from entry-level positions to more senior roles within blue teams, taking on leadership responsibilities and making strategic contributions to organisational security posture.
 #### Continuous Learning and Development
 I am dedicated to continuous learning and professional development, staying updated with the latest trends, technologies, and best practices in cybersecurity, and pursuing advanced certifications and training opportunities to enhance my expertise.
-
-## Skills
 
 ## Projects & Home Labs
 
@@ -74,7 +70,7 @@ As a cybersecurity professional, I have honed my skills and expertise in a varie
 | [![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white)](https://www.velocidex.com/) | Velociraptor is an endpoint visibility and digital forensics tool that provides advanced querying and hunting capabilities for collecting and analysing forensic data across distributed networks. |
 | [![The Hive](https://img.shields.io/badge/-The_Hive-FF7F50?style=for-the-badge)](https://thehive-project.org/) | The Hive is an open-source incident response platform that facilitates collaboration and automation in security incident handling, enabling security teams to effectively manage and respond to security incidents. |
 
-### Certifications
+### Certifications & Training
 [![CCNA Cyber Ops](https://img.shields.io/badge/-CCNA%20Cyber%20Ops-0077C8?style=for-the-badge)](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url) 
   - A certification from Cisco validating skills in cybersecurity operations, including security monitoring, intrusion detection, and incident response.
 

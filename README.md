@@ -7,33 +7,27 @@ Committed to continuous learning and professional growth in safeguarding valuabl
 
 ## Career Objectives
 Aspiring to excel in the dynamic field of cybersecurity, my career objectives are focused on contributing to blue team operations and advancing into roles such as SOC Analyst (Tier 1/2) or Cyber Security Engineer. My objectives include:
-
 #### Joining a SOC Environment:
 My immediate goal is to secure a position within a Security Operations Center, where I can leverage my technical skills and passion for cybersecurity to contribute to threat detection, incident response, and security monitoring efforts.
-
 #### Gaining Practical Experience:
 I aspire to gain hands-on experience in security operations by actively participating in projects and learning from experienced colleagues.
-
 #### Obtaining Relevant Certifications:
 I am committed to acquiring industry-recognised certifications to validate my knowledge and skills in defensive cybersecurity strategies.
-
 #### Advancing to Senior Roles: 
 With a long-term perspective, I aspire to progress from entry-level positions to more senior roles within blue teams, taking on leadership responsibilities and making strategic contributions to organisational security posture.
-
 #### Continuous Learning and Development:
 I am dedicated to continuous learning and professional development, staying updated with the latest trends, technologies, and best practices in cybersecurity, and pursuing advanced certifications and training opportunities to enhance my expertise.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+## Projects & Home Labs
+
+| Project                                       | Github Repository         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SOC Automation Project                        | [Repo Link](link_to_repo)|
+| Ansible Automation for Container Security     | [Repo Link](https://github.com/hemza2c/reserach_paper)|
+| Machine Learning Tool to Identify Malicious URLs | [Repo Link](https://github.com/hemza2c/ML-tool-for-malicious-URLs)|
+| Novel USB Rubber Ducky Scripts                | [Repo Link](https://github.com/hemza2c/USB-Rubber-Ducky-scripts)|
 
 ## Tools
 As a cybersecurity professional, I have honed my skills and expertise in a variety of tools and areas crucial to safeguarding digital assets and mitigating security risks. Here are some of the tools I have mastered and my areas of expertise
@@ -115,9 +109,3 @@ As a cybersecurity professional, I have honed my skills and expertise in a varie
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-X18R1DXTTA.png" style="width:300px;"/>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1DZHAS6MH2.png" style="width:300px;"/>
 </div>
-
-## Projects & Home Labs
-- SOC Automation Project.
-- Ansible Automation for Container Security.
-- Machine Learning Tool to Identify Malicious URLs.
-- Novel USB Rubber Ducky Scripts.

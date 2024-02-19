@@ -65,27 +65,35 @@ As a cybersecurity professional, I have honed my skills and expertise in a varie
 | [![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white)](https://www.velocidex.com/) | Velociraptor is an endpoint visibility and digital forensics tool that provides advanced querying and hunting capabilities for collecting and analysing forensic data across distributed networks. |
 | [![The Hive](https://img.shields.io/badge/-The_Hive-FF7F50?style=for-the-badge)](https://thehive-project.org/) | The Hive is an open-source incident response platform that facilitates collaboration and automation in security incident handling, enabling security teams to effectively manage and respond to security incidents. |
 
-## Certifications
-[CCNA Cyber Ops](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url)
+### Certifications
+[![CCNA Cyber Ops](https://img.shields.io/badge/-CCNA%20Cyber%20Ops-0077C8?style=for-the-badge)](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url) 
+  - A certification from Cisco validating skills in cybersecurity operations, including security monitoring, intrusion detection, and incident response.
 
-[CopmTIA Cyber Security Analyst CySa+ Training](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1635549274467/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+[![CompTIA CySA+](https://img.shields.io/badge/-CompTIA%20CySA+-0057B8?style=for-the-badge)](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1635549274467/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log) 
+  - Training certification demonstrating proficiency in threat detection, vulnerability management, and incident response within a cybersecurity context.
 
-[Incident Response Planning](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1708092863727/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+[![Incident Response Planning](https://img.shields.io/badge/-Incident%20Response%20Planning-222222?style=for-the-badge)](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1708092863727/single-media-viewer/?type=DOCUMENT&profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log) 
+  - LinkedIn Certification showcasing expertise in developing and implementing incident response plans to effectively manage and mitigate security incidents.
 
-[Learning Elastic Stack](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1708092918547/single-media-viewer/?profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log)
+[![Learning Elastic Stack](https://img.shields.io/badge/-Learning%20Elastic%20Stack-005571?style=for-the-badge)](https://www.linkedin.com/in/hemza-chaker-6649b3183/details/certifications/1708092918547/single-media-viewer/?profileId=ACoAACtlbuwBC0VaT86mgg3I7X3UiT2OVI27log) 
+  - LinkedIn Certification demonstrating proficiency in using the Elastic Stack for log management, data analysis, and visualisation.
 
-[CCNA 1 ITN ](https://www.credly.com/badges/7e56624b-2258-42fb-af59-c6cf414bb42d/linked_in_profile)
+[![CCNA 1 ITN](https://img.shields.io/badge/-CCNA%201%20ITN-0077C8?style=for-the-badge)](https://www.credly.com/badges/7e56624b-2258-42fb-af59-c6cf414bb42d/linked_in_profile) 
+  - The first part of the CCNA certification, covering networking fundamentals, network access, IP connectivity, and IP services.
 
-[HCIA Routing & Switching](https://drive.google.com/file/d/1kQR_8gTch7JZOkLTKMfI6a7c4_LsO6f3/view?usp=sharing)
+[![HCIA Routing & Switching](https://img.shields.io/badge/-HCIA%20Routing%20%26%20Switching-FF6F00?style=for-the-badge)](https://drive.google.com/file/d/1kQR_8gTch7JZOkLTKMfI6a7c4_LsO6f3/view?usp=sharing) 
+  - Certification from Huawei demonstrating proficiency in routing and switching technologies, including configuration and troubleshooting of network devices.
 
-[JNCIA Junos](https://drive.google.com/file/d/1cwxmSgGdRl9Ap2AgJCrQaX4f7DQ38omp/view?usp=sharing)
+[![JNCIA Junos](https://img.shields.io/badge/-JNCIA%20Junos-85C1E9?style=for-the-badge)](https://drive.google.com/file/d/1cwxmSgGdRl9Ap2AgJCrQaX4f7DQ38omp/view?usp=sharing) 
+  - Certification from Juniper Networks validating skills in Junos OS fundamentals, networking protocols, and configuration tasks.
+ 
+### Udemy Certifications
 
-### Udemy certifictions
+[![Mastering Command Injection](https://img.shields.io/badge/-Mastering%20Command%20Injection-FF5733?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-79f216e5-4b93-484a-bbf0-6a486faa91b9/)
+  - The Ultimate Hands-On Course for mastering command injection techniques, enhancing your understanding of security vulnerabilities and countermeasures.
 
-[Mastering Command Injection - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-79f216e5-4b93-484a-bbf0-6a486faa91b9/)
-
-[Mastering Directory Traversal - The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-3bc8d679-d16f-4f8b-8369-18af26644096/)
-
+[![Mastering Directory Traversal](https://img.shields.io/badge/-Mastering%20Directory%20Traversal-FF5733?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-3bc8d679-d16f-4f8b-8369-18af26644096/)
+  - The Ultimate Hands-On Course for mastering directory traversal attacks, equipping you with the skills to prevent and mitigate this common web application vulnerability.
 
 ### TryHackMe certifications & achievements
 <div>
@@ -95,7 +103,7 @@ As a cybersecurity professional, I have honed my skills and expertise in a varie
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1DZHAS6MH2.png" style="width:300px;"/>
 </div>
 
-## Projects
+## Projects & Home Labs
 - SOC Automation Project.
 - Ansible Automation for Container Security.
 - Machine Learning Tool to Identify Malicious URLs.

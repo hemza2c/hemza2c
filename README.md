@@ -23,8 +23,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-### Network
-
+As a cybersecurity professional, I have honed my skills and expertise in a variety of tools and areas crucial to safeguarding digital assets and mitigating security risks. Here are some of the tools I have mastered and my areas of expertise
+### Network Security
 | Tool | Description |
 |------|-------------|
 | [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org/) | Wireshark is a widely-used network protocol analyser for network troubleshooting, analysis, software and communications protocol development, and education. |
@@ -35,47 +35,35 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | [![NetworkMiner](https://img.shields.io/badge/-NetworkMiner-008000?style=for-the-badge&logo=NetworkMiner&logoColor=white)](https://www.netresec.com/?page=NetworkMiner) | NetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname, and open ports of network hosts. |
 | [![Brim](https://img.shields.io/badge/-Brim-008080?style=for-the-badge&logo=Brim&logoColor=white)](https://www.brimsecurity.com/) | Brim is an open-source, real-time, and search-driven network analysis tool. |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ESET-007ACC?style=for-the-badge&logo=ESET&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=Sysmon&logoColor=white" />
-    <img src="https://img.shields.io/badge/-osquery-3399FF?style=for-the-badge" />
-</div>
+### Endpoint Security
+| Tool | Description |
+|------|-------------|
+| [![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white)](https://wazuh.com/) | Wazuh is an open-source security monitoring platform used for threat detection, integrity monitoring, and compliance. |
+| [![ESET](https://img.shields.io/badge/-ESET-007ACC?style=for-the-badge&logo=ESET&logoColor=white)](https://www.eset.com/) | ESET is an antivirus software suite known for its proactive protection, low system impact, and advanced threat detection capabilities. |
+| [![Sysmon](https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=Sysmon&logoColor=white)](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) | Sysmon is a Windows system service and device driver that logs system activity to the Windows event log, providing detailed information about process creations, network connections, and changes to file creation time. |
+| [![osquery](https://img.shields.io/badge/-osquery-3399FF?style=for-the-badge)](https://osquery.io/) | osquery is an open-source endpoint security tool that allows you to query your devices using SQL-like syntax to gain insights into your operating system and detect potential security issues. |
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+### Security Information and Event Management Tools (SIEM) 
+| Tool | Description |
+|------|-------------|
+| [![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/) | Splunk is a leading platform for collecting, searching, and analysing machine-generated data, including logs, events, and metrics, to gain valuable insights into security, IT operations, and business performance. |
+| [![Elastic](https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white)](https://www.elastic.co/) | Elastic (ELK Stack) is a powerful open-source platform for search, analysis, and visualisation of data in real-time, making it suitable for log management, security analytics, and SIEM use cases. |
+| [![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white)](https://wazuh.com/) | Wazuh is an open-source security monitoring platform used for threat detection, integrity monitoring, and compliance, with built-in SIEM capabilities for centralised log management and analysis. |
 
-### SOAR
-<div>
-    <img src="https://img.shields.io/badge/-Shuffler.io-FFA500?style=for-the-badge&logo=Shuffler.io&logoColor=black&color=000000" />
-</div>
+### Orchestration, Automation, and Response Tools (SOAR)
+| Tool | Description |
+|------|-------------|
+| [![Shuffler.io](https://img.shields.io/badge/-Shuffler.io-FFA500?style=for-the-badge&logo=Shuffler.io&logoColor=black&color=000000)](https://shuffler.io/) | Shuffler is a versatile security orchestration, automation, and response (SOAR) platform that empowers security teams to streamline incident response processes, automate repetitive tasks, and enhance overall security operations efficiency. |
 
 ### Digital Forensics & Incident Response
-![Autopsy](https://img.shields.io/badge/-Autopsy-9932CC?style=for-the-badge)
-![Redline](https://img.shields.io/badge/-Redline-B22222?style=for-the-badge)
-![KAPE](https://img.shields.io/badge/-KAPE-FF6347?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/-Volatility-4682B4?style=for-the-badge)
-<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-![The Hive](https://img.shields.io/badge/-The_Hive-FF7F50?style=for-the-badge)
-
-
-### Security Tools and Technologies
-
-| | | | |
-|---|---|---|---|
-| ![TheHive Project](https://img.shields.io/badge/-The_Hive_Project-FF7F50?style=for-the-badge) | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white) | ![osquery](https://img.shields.io/badge/-osquery-3399FF?style=for-the-badge&logo=osquery&logoColor=white) | ![Autopsy](https://img.shields.io/badge/-Autopsy-9932CC?style=for-the-badge) |
-| Description: Open source incident response platform | Description: Networking and cybersecurity solutions | Description: Endpoint visibility and security | Description: Digital forensics and analysis |
-| ![Redline](https://img.shields.io/badge/-Redline-B22222?style=for-the-badge) | ![KAPE](https://img.shields.io/badge/-KAPE-FF6347?style=for-the-badge) | ![Volatility](https://img.shields.io/badge/-Volatility-4682B4?style=for-the-badge) | ![Tcpdump](https://img.shields.io/badge/-Tcpdump-4B0082?style=for-the-badge&logo=Tcpdump&logoColor=white) |
-| Description: Endpoint security and analysis | Description: Forensic data collection and triage | Description: Memory forensics | Description: Network packet capture and analysis |
-| ![Snort](https://img.shields.io/badge/-Snort-FF4500?style=for-the-badge&logo=Snort&logoColor=white) | ![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=Wazuh&logoColor=white) | ![ESET](https://img.shields.io/badge/-ESET-007ACC?style=for-the-badge&logo=ESET&logoColor=white) | |
-| Description: Network intrusion detection and prevention | Description: Security monitoring and threat detection | Description: Antivirus and cybersecurity solutions | |
-
-
+| Tool | Description |
+|------|-------------|
+| [![Autopsy](https://img.shields.io/badge/-Autopsy-9932CC?style=for-the-badge)](https://www.sleuthkit.org/autopsy/) | Autopsy is a digital forensics platform that assists in analysing disk images, recovering evidence, and conducting investigations for digital forensic examinations. |
+| [![Redline](https://img.shields.io/badge/-Redline-B22222?style=for-the-badge)](https://www.fireeye.com/services/freeware/redline.html) | Redline is a free endpoint security tool provided by FireEye that aids in investigating and analysing endpoints for signs of malicious activity and intrusion. |
+| [![KAPE](https://img.shields.io/badge/-KAPE-FF6347?style=for-the-badge)](https://www.kape.tech/) | KAPE  is a forensic framework used for collecting and processing forensic artifacts from digital evidence sources, enabling rapid data acquisition and analysis. |
+| [![Volatility](https://img.shields.io/badge/-Volatility-4682B4?style=for-the-badge)](https://www.volatilityfoundation.org/) | Volatility is an open-source memory forensics framework that allows for the extraction and analysis of volatile memory (RAM) data from compromised systems to identify malicious activity and uncover security breaches. |
+| [![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white)](https://www.velocidex.com/) | Velociraptor is an endpoint visibility and digital forensics tool that provides advanced querying and hunting capabilities for collecting and analysing forensic data across distributed networks. |
+| [![The Hive](https://img.shields.io/badge/-The_Hive-FF7F50?style=for-the-badge)](https://thehive-project.org/) | The Hive is an open-source incident response platform that facilitates collaboration and automation in security incident handling, enabling security teams to effectively manage and respond to security incidents. |
 
 ## Certifications
 [CCNA Cyber Ops](https://www.credly.com/badges/d9ccb476-9faf-4960-aaba-69695047e635/public_url)

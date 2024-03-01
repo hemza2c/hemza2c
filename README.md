@@ -39,6 +39,8 @@ As a cybersecurity professional, I have honed my skills and expertise in a varie
 | [![Tcpdump](https://img.shields.io/badge/-Tcpdump-4B0082?style=for-the-badge&logo=Tcpdump&logoColor=white)](https://www.tcpdump.org/) | Tcpdump is a powerful command-line packet analyser. |
 | [![NetworkMiner](https://img.shields.io/badge/-NetworkMiner-008000?style=for-the-badge&logo=NetworkMiner&logoColor=white)](https://www.netresec.com/?page=NetworkMiner) | NetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows that can detect the OS, hostname, and open ports of network hosts. |
 | [![Brim](https://img.shields.io/badge/-Brim-008080?style=for-the-badge&logo=Brim&logoColor=white)](https://www.brimsecurity.com/) | Brim is an open-source, real-time, and search-driven network analysis tool. |
+| [![Nessus](https://img.shields.io/badge/-Nessus-00C8FF?style=for-the-badge&logo=Nessus&logoColor=white)](https://www.tenable.com/products/nessus) | Nessus is a widely-used vulnerability assessment tool developed by Tenable, Inc. It is used for identifying vulnerabilities, configuration issues, and malware in systems and networks. |
+
 
 ### Endpoint Security
 | Tool | Description |

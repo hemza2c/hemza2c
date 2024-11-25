@@ -1,7 +1,7 @@
 # Hello, I'm Hemza Chaker
 <a href="https://www.linkedin.com/in/hemza-chaker-6649b3183/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced cyber security engineer with a strong foundation in cyber security principles and best practices, as well as practical experience in cyber security analysis, vulnerability assessment,and incident response. Proficient in network security, secure infrastructure design, and security tool implementation. Detail-oriented, analytical, and adept at problem-solving.Committed to continuous learning and professional growth in safeguarding valuable information assets.
+Experienced IT Secuirty specialist with a strong foundation in cyber security principles and best practices, as well as practical experience in cyber security analysis, vulnerability assessment,and incident response. Proficient in network security, secure infrastructure design, and security tool implementation. Detail-oriented, analytical, and adept at problem-solving.Committed to continuous learning and professional growth in safeguarding valuable information assets.
 
 ## Career Objectives
 Aspiring to excel in the dynamic field of cybersecurity, my career objectives are focused on contributing to blue team operations and advancing into roles such as SOC Analyst (Tier 1/2) or Cyber Security Engineer. My objectives include:
